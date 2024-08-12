@@ -2,7 +2,7 @@
 
 ![Architecture](assets/Infra.gif)
 
-This repository demonstrates the deployment of a three-tier application using Docker, focusing on individual Dockerfiles for each component. The application comprises a MySQL database, a Node.js backend, and a React.js frontend.
+This repository demonstrates the deployment of a three-tier application using Docker, focusing on individual Dockerfiles for each component. The application comprises a MySQL database, a Node.js backend, and a React.js frontend and will be deployed using Docker compose
 
 ## Prerequisites
 
