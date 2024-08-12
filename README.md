@@ -4,7 +4,6 @@
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/avian19)
 
 ![Docker Logo](https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png)
-
 Welcome to my Docker Projects repository! 🚀 In this collection, you'll find Dockerfiles and projects for various technologies, making it easy to containerize your applications.
 
 ## Table of Contents
