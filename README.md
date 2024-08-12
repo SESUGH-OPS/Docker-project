@@ -1,13 +1,4 @@
 # Docker Projects
-<<<<<<< HEAD
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
-[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/avian19)
-
-![Docker Logo](https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png)
-=======
-
->>>>>>> d2131d93 (feat:edited readme file)
 Welcome to my Docker Projects repository! 🚀 In this collection, you'll find Dockerfiles and projects for various technologies, making it easy to containerize your applications.
 
 ## Table of Contents
